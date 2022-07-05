@@ -1,11 +1,13 @@
-What is Machine Learning?
+Overview
 Whenever you search for your favorite dish recipees on search engine, you get desired outputs with related images.
 After watching a DSA course on youtube, you are recommended with more DSA and interview questions. After listening to pop music by an artist on Spotify, 
 you are recommended with more pop music. This behaviour mapping of an individual account is followed by algorithm written by ML engineers. This pattern
-mapping and reasonable output is known as Machine Learning.
+mapping and reasonable output comes under domain of Machine Learning.
 
 Applications of Machine Learning
 Machine learning engineer can operate in the domain of machine learning in two ways: 1.Applied ML & 2.Research ML
 Applied ML, as name suggests is a field where real world problems are identified and solved using Machine learning methods which are already formulated. 
 Research ML, as name suggests is a field where the new nuances of Machine learning domain are explored. Reasearch goes deep in mathematics of how the model works 
 and how it can be better.
+
+
