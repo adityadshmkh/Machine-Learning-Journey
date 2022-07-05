@@ -26,3 +26,7 @@ a graph that is bestfit. This is also called Regression.
 Supervised learning is a way that is most popular and widely used.
 Another problem can be of identifying answers in a binary format i.e. 0/1 , yes/no. Take an example of predicting a person has a benign or malignant cancer
 with available data of size of tumour. In this we can identify clusters and label them. This type of supervised learning is known classification model.
+
+2. Unsupervised Learning
+In this type, the dataset are not given labels that are to be identified and is called clustering. Inputs X are present but Y are not present. 
+For eg: Google news that shows similar keywords result when searched for.
