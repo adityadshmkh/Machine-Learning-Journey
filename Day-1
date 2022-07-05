@@ -10,4 +10,17 @@ Applied ML, as name suggests is a field where real world problems are identified
 Research ML, as name suggests is a field where the new nuances of Machine learning domain are explored. Reasearch goes deep in mathematics of how the model works 
 and how it can be better.
 
+What is Machine Learning?
+"Field of study that gives computers ability to learn without being explicitly programmed" ~Arthur Samuel
 
+Types of Machine Learning:
+1. Supervised ML
+2. Unsupervised ML
+3. Reinforcement ML
+4. Recommender System
+
+1. Supervised Learning
+You have an input X and an output Y. Take an example of guessing housing prices, where the input is sqmetre of house and output is $. 
+We have a dataset which can give us an idea about how the prices of house are varying with increasing size and then we can fit the model with
+a graph that is bestfit. This is also called Regression.
+Supervised learning is a way that is most popular and widely used.
