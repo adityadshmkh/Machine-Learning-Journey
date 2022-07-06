@@ -1,5 +1,5 @@
 **Overview**
-<br/>
+***
 Whenever you search for your favorite dish recipees on search engine, you get desired outputs with related images.
 After watching a DSA course on youtube, you are recommended with more DSA and interview questions. After listening to pop music by an artist on Spotify, 
 you are recommended with more pop music. This behaviour mapping of an individual account is followed by algorithm written by ML engineers. This pattern
