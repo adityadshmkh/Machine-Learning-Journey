@@ -8,3 +8,10 @@ Training example: (xi , yi) i ->  represent row in a table of training set
 input variable: x (feature)
 output variable: y (target variable)
 m : number of training example
+
+f(x) = wx + b
+
+where f(x) is a linear function and results in predicted value when input value x in entered with two constants w & b.
+
+**Cost Function**
+
