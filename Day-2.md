@@ -11,7 +11,6 @@ $y = mx + c$
 
 $f(x) = wx + b$
 
-* Where $f(x)$ is a linear function and results in predicted value when input value x in entered with two constants w & b.
+* Where $f(x)$ is a linear function and results in predicted value when input value $x$ in entered with two parameters $w$ & $b$.
 ***
 **Cost Function**
-
