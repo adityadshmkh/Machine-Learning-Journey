@@ -14,4 +14,4 @@ $f(x) = wx + b$
 * Where $f(x)$ is a linear function and results in predicted value when input value $x$ in entered with two parameters $w$ & $b$.
 ***
 **Cost Function**
-$J(w,b)= 1/2m\sum_{x = a}^{b} (f_wb(x^i) - y^i)^2$
+$J(w,b)= 1/2m\sum_{n = i}^{m} (f_{wb}(x^i) - y^i)^2$
