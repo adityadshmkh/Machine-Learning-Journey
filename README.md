@@ -1,2 +1,2 @@
 # ML-with-AndrewNg
-This is my journey of Machine Learning under guidance of "Andrew Ng's 2022, Machine Learning" course.
+This is my journey of Machine Learning and I have followed various courses tutorials and practical examples!
