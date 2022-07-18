@@ -18,4 +18,7 @@ $temp_w =$  w - $\alpha$ $\frac{\partial J}{\partial w}$<br />
 $temp_b =$  b - $\alpha$ $\frac{\partial J}{\partial b}$<br />
 $w = temp_w$<br />
 $b = temp_b$<br />
-This is known as changing the values of the w & b simultaneously. This is done so that we get the minimum value of the cost function.
+This is known as changing the values of the w & b simultaneously. This is done so that we get the minimum value of the cost function.<br />
+The learning rate is always positive, hence the value of alpha is always positive the derivative term i.e. the slope of the tangent to the curve of the graph discussed above can be positive or negative. When it is positive, hence making an acute angle, it will decrease the value of w & b as the derivative part is positive and the new value will be decreased. When it is negative, hence making an obtuse angle, it will increase the value of w & b as the derivative part is negative and the new value will be increased.<br />
+The learning rate should not be too small, if being so would take alot of time to reach the local minimum and even may not reach. The learning rate cannot be more than desired as it will the never reach the global minimum and will stay distracted. The learning rate should be as small and significant so that it gives the desired lowest cost function.<br />
+***
