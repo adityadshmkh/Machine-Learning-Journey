@@ -14,8 +14,8 @@ $w = w -$ $\alpha$ $\frac{\partial J}{\partial w}$<br />
 $b = b -$ $\alpha$ $\frac{\partial J}{\partial b}$<br />
 Where $\alpha$ is very small value. It is also known as learning rate (we called it as a step in our discussion).<br />
 In the gradient descent the values of w & b can be updated as follows:<br />
-$temp_w =$ $ w -$ $\alpha$ $\frac{\partial J}{\partial w}$<br />
-$temp_b =$ $ b -$ $\alpha$ $\frac{\partial J}{\partial b}$<br />
+$temp_w =$  w - $\alpha$ $\frac{\partial J}{\partial w}$<br />
+$temp_b =$  b - $\alpha$ $\frac{\partial J}{\partial b}$<br />
 $w = temp_w$<br />
 $b = temp_b$<br />
 This is known as changing the values of the w & b simultaneously. This is done so that we get the minimum value of the cost function.
