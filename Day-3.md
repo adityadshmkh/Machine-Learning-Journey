@@ -7,3 +7,8 @@ The cost function graph can be plotted in two ways:
 2. Surface view: This type of graph shows the w & b in two axes and the cost function on the third axes, which makes it visually easier to spot the minima(of cost function).
 
 We cannot everytime make a graph and visualise a graph to find the values of w & b to find a best fit models, so for that we have different algorithms which do our job to find the values of w & b so that the model is best fit.
+***
+**Gradient Descent**
+This algorithm is widely used in the field of Machine Learning. This type of method is when one takes steps towards minimising the cost with small steps. We can visualise this by imagining a cost function which has valleys and hills and moving towards the minimum step by step. The step taken towards the minima can also lead to different minima if the direction is changed a bit and our goal is to find global minima.
+$w = w - $\alpha$$\frac{\partial J}{\partial w}$$
+$b = b - $\alpha$$\frac{\partial J}{\partial b}$$
