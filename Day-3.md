@@ -12,10 +12,10 @@ We cannot everytime make a graph and visualise a graph to find the values of w &
 This algorithm is widely used in the field of Machine Learning. This type of method is when one takes steps towards minimising the cost with small steps. We can visualise this by imagining a cost function which has valleys and hills and moving towards the minimum step by step. The step taken towards the minima can also lead to different minima if the direction is changed a bit and our goal is to find global minima.<br />
 $w = w -$ $\alpha$ $\frac{\partial J}{\partial w}$<br />
 $b = b -$ $\alpha$ $\frac{\partial J}{\partial b}$<br />
-Where $\alpha$ is very small value. It is also known as learning rate (we called it as a step in our discussion).
-In the gradient descent the values of w & b can be updated as follows:
-$temp_w =$$ w -$ $\alpha$ $\frac{\partial J}{\partial w}$<br />
-$temp_b =$$ b -$ $\alpha$ $\frac{\partial J}{\partial b}$<br />
+Where $\alpha$ is very small value. It is also known as learning rate (we called it as a step in our discussion).<br />
+In the gradient descent the values of w & b can be updated as follows:<br />
+$temp_w =$ $ w -$ $\alpha$ $\frac{\partial J}{\partial w}$<br />
+$temp_b =$ $ b -$ $\alpha$ $\frac{\partial J}{\partial b}$<br />
 $w = temp_w$<br />
 $b = temp_b$<br />
 This is known as changing the values of the w & b simultaneously. This is done so that we get the minimum value of the cost function.
