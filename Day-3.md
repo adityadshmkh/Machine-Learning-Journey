@@ -10,5 +10,5 @@ We cannot everytime make a graph and visualise a graph to find the values of w &
 ***
 **Gradient Descent**
 This algorithm is widely used in the field of Machine Learning. This type of method is when one takes steps towards minimising the cost with small steps. We can visualise this by imagining a cost function which has valleys and hills and moving towards the minimum step by step. The step taken towards the minima can also lead to different minima if the direction is changed a bit and our goal is to find global minima.
-$w = w - $\alpha$$\frac{\partial J}{\partial w}$$
-$b = b - $\alpha$$\frac{\partial J}{\partial b}$$
+$w = w -$ $\alpha$ $\frac{\partial J}{\partial w}$
+$b = b -$ $\alpha$ $\frac{\partial J}{\partial b}$
